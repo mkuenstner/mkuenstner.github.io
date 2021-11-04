@@ -12,7 +12,7 @@ email: kuenstner@gmail.com
 website: https://mkuenstner.github.io
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: never
 
 # Social links
 #twitter_username:
@@ -113,7 +113,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: ZHAW, Winterthur, ZH
+        title: ZHAW, Winterthur 
         caption: 2002 - 2015
         sub_title: Dipl. Inf.-Ing. FH
         quote: >
@@ -124,11 +124,9 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      Alongside my interests in AWS, the DevOps culture and some of my other interests and hobbies are:
+      - Photography
+      - Cooking, Fermenting
 
 # Footer
 footer_show_references: false
