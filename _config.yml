@@ -12,7 +12,7 @@ email: kuenstner@gmail.com
 website: https://mkuenstner.github.io
 
 # Dark Mode (true/false/never)
-darkmode: never
+darkmode: true
 
 # Social links
 #twitter_username:
@@ -45,10 +45,10 @@ linkedin_username: mkuenstner
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
+about_title: About Me
 about_profile_image: images/portrait.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Markus and I'm a Engineering Manager for the Cloud Engineering team at JobCloud.
+  Hi, my name's Markus and I'm a Engineering Manager for the Cloud Engineering team at JobCloud from Zurich, Switzerland.
   
   I am most skilled in: <mark>AWS</mark> <mark>Docker</mark> and eating <mark>Pizza</mark>.
 
@@ -84,10 +84,7 @@ content:
         quote: >
           Vision here
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            AWS and stuff
       - layout: left
         title: ETH Zurich
         link: ethz.ch
