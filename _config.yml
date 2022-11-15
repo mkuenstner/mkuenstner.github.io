@@ -12,7 +12,7 @@ email: kuenstner@gmail.com
 website: https://mkuenstner.github.io
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 #twitter_username:
@@ -50,7 +50,7 @@ about_profile_image: images/portrait.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Markus and I'm a Engineering Manager for the Cloud Engineering team at JobCloud from Zurich, Switzerland.
   
-  I am most skilled in: <mark>AWS</mark> <mark>Docker</mark> and eating <mark>Pizza</mark>.
+  I am most skilled in everything <mark>AWS</mark>, i love to work with <mark>Docker</mark> and eating <mark>Pizza</mark>.
 
 content:
   # - title: Projects # Title for the section
@@ -79,12 +79,12 @@ content:
         title: JobCloud AG
         link: jobcloud.ch
         # link_text: boringcompany.com
-        sub_title: Head of Cloud Engineering
+        sub_title: Engineering Manager, Cloud Engineering
         caption: May 2009 - Present
         quote: >
           Vision here
         description: | # this will include new lines to allow paragraphs
-            AWS and stuff
+            Everything AWS, Prometheus, Grafana, Docker
       - layout: left
         title: ETH Zurich
         link: ethz.ch
@@ -122,7 +122,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in AWS, the DevOps culture and some of my other interests and hobbies are:
-      - Photography
+      - Photography, Videography, Music
       - Cooking, Fermenting
 
 # Footer
